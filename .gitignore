@@ -1,0 +1,30 @@
+# Compiled MQL5
+*.ex5
+*.ex4
+*.mql
+
+# Logs
+*.log
+*.csv
+
+# IDE
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.tmp
+*~
+
+# Data files
+*.hst
+*.fxt
+
+# MT5 Terminal specific
+appdata/
+testing/
+history/
